@@ -1,0 +1,13 @@
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  border: 0;
+  border-bottom: 6px dotted gray;
+  background: none;
+  width: 15%
+}
+h1,h3{
+  color: #66BFBF;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
